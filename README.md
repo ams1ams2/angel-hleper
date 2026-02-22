@@ -223,9 +223,9 @@ COLORS = {
 
 ## 📞 التواصل والدعم
 
-- **البريد الإلكتروني**: your.email@example.com
-- **Twitter**: [@YourTwitter](https://twitter.com/yourtwitter)
-- **GitHub**: [YourGitHub](https://github.com/yourgithub)
+- **البريد الإلكتروني**: ams103ams103@hotmail.com
+- **Twitter**: (https://www.linkedin.com/in/dhiyaa-aldeen/)
+- **GitHub**: (https://github.com/ams1ams2)
 
 ---
 
@@ -236,3 +236,4 @@ COLORS = {
 ⭐ إذا أعجبك المشروع، لا تنسَ إعطاءه نجمة على GitHub!
 
 </div>
+
