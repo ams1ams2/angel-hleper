@@ -1,0 +1,42 @@
+{
+  "name": "الملاك المساعد",
+  "version": "2.1.0",
+  "description": "مساعد ذكي متحرك على سطح المكتب بتقنية الذكاء الاصطناعي",
+  "main": "main.py",
+  "author": "الملاك المساعد Team",
+  "license": "MIT",
+  "keywords": [
+    "AI",
+    "assistant",
+    "desktop",
+    "PyQt6",
+    "OpenRouter",
+    "GPT",
+    "Arabic",
+    "productivity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/angel-assistant"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/angel-assistant/issues"
+  },
+  "homepage": "https://github.com/yourusername/angel-assistant#readme",
+  "requirements": {
+    "python": ">=3.8",
+    "os": "Windows 10/11 (recommended)"
+  },
+  "features": [
+    "شخصية متحركة احترافية",
+    "اقتراحات ذكية تلقائية",
+    "محادثة فورية عبر F12",
+    "ذاكرة ممتدة وتخصيص",
+    "تكامل مع OpenRouter GPT-5.2",
+    "واجهة PyQt6 جميلة"
+  ],
+  "scripts": {
+    "start": "python main.py",
+    "install": "pip install -r requirements.txt"
+  }
+}

@@ -1,0 +1,934 @@
+{
+  "user_profile": {
+    "top_window_keywords": {
+      "main.py": 29,
+      "الملاك": 90,
+      "المساعد": 90,
+      "cursor": 41,
+      "python": 16,
+      "c:\\windows\\system32\\cmd.exe": 21,
+      "محادثة": 3,
+      "main": 12,
+      "copy.py": 3,
+      "anaconda": 1,
+      "prompt": 2,
+      "command": 1,
+      "new.py": 9,
+      "شريط": 1,
+      "أدوات": 1,
+      "التسجيل": 1,
+      "إعدادات": 1,
+      "‫الإشعارات": 1,
+      "linkedin": 2,
+      "google": 2,
+      "chrome‬": 2,
+      "‫الموجز": 1,
+      "أداة": 1,
+      "القصاصة": 1
+    },
+    "hot_apps": {
+      "main.py الملاك": 29,
+      "python": 17,
+      "c:\\windows\\system32\\cmd.exe": 21,
+      "محادثة الملاك": 3,
+      "Cursor": 3,
+      "main copy.py": 3,
+      "anaconda prompt": 1,
+      "command prompt": 1,
+      "main new.py": 9,
+      "شريط أدوات": 1,
+      "الملاك المساعد": 24,
+      "إعدادات الملاك": 1,
+      "‫الإشعارات linkedin": 1,
+      "‫الموجز linkedin": 1,
+      "أداة القصاصة": 1
+    },
+    "style_prefs": {
+      "prefer_shortcuts": true,
+      "prefer_warnings": true,
+      "tone": "confident"
+    }
+  },
+  "history": [
+    {
+      "ts": "2026-02-07 13:48:33",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "71559db837723bab4c10b973462bf715ad26550e5efb2f38e6b6fb523fd3ddf6",
+      "suggestion": "بدّل تثبيت `pynput` إلى `python -m pip install pynput` (أو `py -m pip install pynput`) داخل بيئة المشروع لأن `pip` غير مُعرّف عندك، ليعمل Hotkey ‏F12 فورًا في main"
+    },
+    {
+      "ts": "2026-02-07 13:49:24",
+      "window_sig": "win:6882934:python",
+      "window_title": "python",
+      "image_hash": "b2afe0ceede6f3d2d45fe35555b432023da8ad2ac9f03f618795c02cbd745c15",
+      "suggestion": "اضبط في Cursor خيار **Python: Select Interpreter** على بيئة مشروعك (أو أنشئ venv) ثم فعّلها في الـTerminal حتى يعمل `pip` وتشتغل اختصارات F12 بدون أخطاء"
+    },
+    {
+      "ts": "2026-02-07 13:49:39",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "57e4a1bcb9468d89650d2bb31d662c2e2753db8bc28f39fe8972cffe035ec10f",
+      "suggestion": "ثبّت الاعتمادات بطريقة موحّدة بإنشاء `requirements"
+    },
+    {
+      "ts": "2026-02-07 13:50:42",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "b0ab1f006eecd59f52ec2092a870c010d2b7f7ac96426334878b06947b53197a",
+      "suggestion": "فعّل اختصارًا عالميًا بـ`pynput` في `main"
+    },
+    {
+      "ts": "2026-02-07 13:51:33",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "cbce2d88701a585b438a595e28f5f45351fa1afb5ae255769ae91628cc53d7f9",
+      "suggestion": "انقل قيمة الـ`token` إلى ملف"
+    },
+    {
+      "ts": "2026-02-07 13:52:48",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "dd4e87966514df6a45db61d20a0601b8dea548a0eb78088de05ee034c9d5f51d",
+      "suggestion": "استخدم ‎Ctrl+Shift+L‎ لتحديد كل ظهور لكلمة ‎token‎ في ‎main"
+    },
+    {
+      "ts": "2026-02-07 13:53:41",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "fa48dfcc851d14d5f975861c85bd95b7a544ada715e773103ef043b56770c573",
+      "suggestion": "استخدم ‎F2‎ لإعادة تسمية المتغير/الدالة (مثل ‎token‎) عبر الملف والمشروع تلقائيًا بدل البحث والاستبدال اليدوي"
+    },
+    {
+      "ts": "2026-02-07 13:54:38",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "b30d10312e0165d633ac4f95f6eb63670066d233f06e18b2d5e324f7c82573dd",
+      "suggestion": "استخدم ‎Ctrl+Shift+F‎ للبحث عبر المشروع كاملًا عن ‎token‎ (وأي مفاتيح حسّاسة) بدل التنقّل بين الملفات يدويًا"
+    },
+    {
+      "ts": "2026-02-07 13:55:36",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "dd6069ed3cb0071f2805b4a7d4c64bd62cc1a588d284763d547ab364852c2a9e",
+      "suggestion": "استخدم ‎Ctrl+F2‎ لتحديد كل تكرارات ‎token‎ في ‎main"
+    },
+    {
+      "ts": "2026-02-07 13:56:36",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "ec7cb63e322df213b4bdb0ebb8d6cf3f666d14075903eae530d219ef2899a89b",
+      "suggestion": "استخدم ‎Ctrl+Shift+F‎ للبحث الشامل عن ‎token‎ في المشروع كله ثم ‎Alt+Enter‎ لتطبيق استبدال دفعة واحدة بدل حصره داخل ‎main"
+    },
+    {
+      "ts": "2026-02-07 13:57:37",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "f55affa083f397313b559e0d5a9b52b833516b109e49d0031016f867052a78c8",
+      "suggestion": "استخدم ‎Ctrl+P‎ ثم اكتب ‎@‎ أو اسم الدالة للبحث السريع عن الرموز والتنقّل بينها داخل ‎main"
+    },
+    {
+      "ts": "2026-02-07 13:58:39",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "a07cd5e2099363a0873ec53bbe8a65ebb7e9201922c495822107cac44d32987d",
+      "suggestion": "استخدم ‎Ctrl+Shift+F‎ ثم فعّل ‎Regex‎ للبحث عن ‎token‎ في كامل المشروع وتحديث كل الأماكن دفعة واحدة بدل التعديل في ‎main"
+    },
+    {
+      "ts": "2026-02-07 13:59:41",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "6af87fb75e0482c89be3e7482630fe8f100b727da33c2319fced8411bc05bacc",
+      "suggestion": "بدل البحث اليدوي عن ‎token‎ استخدم ‎F2 (Rename Symbol)‎ على المتغير داخل ‎main"
+    },
+    {
+      "ts": "2026-02-07 14:00:58",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "3e7ad2f5b846256b681359f6a388a4f847e0d7f8f7280814bd3c6542e0a64084",
+      "suggestion": "استخدم ‎Ctrl+Shift+F‎ مع تفعيل ‎"
+    },
+    {
+      "ts": "2026-02-07 14:03:40",
+      "window_sig": "win:68686548:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "605155b70e4ab4e1f305a6e8b4d90b7056278d8757a359fe8b4232f28c99f5c9",
+      "suggestion": "فعّل بيئة conda الصحيحة داخل Terminal في Cursor (‎conda activate v2‎) ثم شغّل ‎python main"
+    },
+    {
+      "ts": "2026-02-07 14:03:48",
+      "window_sig": "win:4201060:● main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "● main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "69db19247ac4e1ac2f0f9ed4ab8044c1322fc657c471c1291319e2344abe5d01",
+      "suggestion": "لحل خطأ ‎conda activate‎ في ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-07 14:04:09",
+      "window_sig": "win:10292898:💬 محادثة مع الملاك المساعد",
+      "window_title": "💬 محادثة مع الملاك المساعد",
+      "image_hash": "da2c8f57951f7e81551ee95da530eb84baac5a4aa0dfe4e8ed9499e67daec739",
+      "suggestion": "اضغط Ctrl+Shift+P ثم اختر **Terminal: Select Default Profile** واجعل الطرفية **PowerShell/Anaconda Prompt** بدل ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-07 14:04:26",
+      "window_sig": "win:4201060:● main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "● main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "7fce3daedc035534ee17d04e297fc29b72fe4f2b15a42c3c291533ed3a30b7e7",
+      "suggestion": "فعّل خيار VS Code ‏`python"
+    },
+    {
+      "ts": "2026-02-07 14:06:36",
+      "window_sig": "win:38084056:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "8621d7b0a3aeba00eb3e31338fe68e50880d3584bc06c63a150f52bc63616312",
+      "suggestion": "في Cursor اجعل الطرفية الافتراضية Anaconda Prompt بدل ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-07 14:06:44",
+      "window_sig": "win:4201060:● main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "● main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "bd848098558e58d398bab6399d9c0f99ebd6826a2af1ea1aff0705ff4a2ae598",
+      "suggestion": "بدلًا من `conda activate base` نفّذ في الطرفية `C:\\ProgramData\\anaconda3\\Scripts\\conda"
+    },
+    {
+      "ts": "2026-02-07 14:09:43",
+      "window_sig": "win:3476072:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "0c1aee882be7b6c4c3d7f1b8701ee7a969713eb9f4dd558c09dbc2e8d261bee4",
+      "suggestion": "بدل الاعتماد على conda، أنشئ بيئة محلية للمشروع بـ`python -m venv"
+    },
+    {
+      "ts": "2026-02-07 14:11:47",
+      "type": "text_chat",
+      "user_message": "مرحبا",
+      "response": "مرحبًا! كيف أقدر أساعدك اليوم؟  \nهل تريد ضبط الطرفية الافتراضية في Cursor لتكون **Anaconda Prompt** بدل `cmd`، أم تريد إعداد بيئة مشروع محلية بـ `python -m venv`؟"
+    },
+    {
+      "ts": "2026-02-07 14:20:19",
+      "type": "text_chat",
+      "user_message": "مرحبا",
+      "response": "مرحبًا! كيف أقدر أساعدك اليوم في Cursor؟\n\nإذا هدفك إعداد الطرفية الافتراضية لتكون **Anaconda Prompt** أو تفضّل بدلًا من conda إنشاء بيئة محلية للمشروع بـ **venv**، قلّي نظامك (Windows/macOS/Linux) وإصدار Cursor، وبأية طريقة تفضّل تشتغل."
+    },
+    {
+      "ts": "2026-02-07 14:30:37",
+      "window_sig": "win:1969926:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "f97959e62f2d1e3fabcbac5d102fd9377cade129c3caf23b2434c660b4ce9284",
+      "suggestion": "لحل خطأ `conda` غير معروف داخل Cursor بسرعة: افتح **Anaconda Prompt** وشغّل `conda init powershell` ثم أعد تشغيل التيرمنال ليعمل `conda activate` مباشرة"
+    },
+    {
+      "ts": "2026-02-07 14:48:19",
+      "type": "text_chat",
+      "user_text": "مرحبا",
+      "response": "مرحبًا! كيف أقدر أساعدك اليوم؟  \nهل تريد مساعدة في **بحث** معيّن، أو مشكلة في **Python / main.py** داخل **Cursor** أو عبر **cmd.exe**؟"
+    },
+    {
+      "ts": "2026-02-07 14:56:18",
+      "window_sig": "win:52304052:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "96888736099bfd45bdb56b2fcbd3d3e7fdc38799915cdd2a1b163c64f87f16a4",
+      "suggestion": "بدّل تيرمنال Cursor إلى **Command Prompt (Anaconda3)** أو أضِف `C:\\ProgramData\\anaconda3\\Scripts` و"
+    },
+    {
+      "ts": "2026-02-07 14:56:29",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "ae014bfa93c6d206932035eb8fb2e08200dc312b664714977c94b9b7083ddcbe",
+      "suggestion": "استخدم ‎Ctrl+Shift+F‎ مع تفعيل ‎Regex‎ للبحث عن ‎token‎ في كامل مشروع ‎main"
+    },
+    {
+      "ts": "2026-02-07 14:56:36",
+      "window_sig": "win:47782428:python",
+      "window_title": "python",
+      "image_hash": "69b970990e22a003736d3a971366a166cb5d7069d740cb42e7d02bb195fc7aca",
+      "suggestion": "استخدم ‎Ctrl+P‎ ثم اكتب ‎@update_profile_from_window‎ (أو أي دالة) للقفز الفوري داخل ‎main"
+    },
+    {
+      "ts": "2026-02-07 15:05:23",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "aa93ee297c3440444c165cb115713be0adb40f03ecadd030a4c8de4cac48e047",
+      "suggestion": "امنع تكرار المواضيع في `remember_topic` بإضافة `topics = list(dict"
+    },
+    {
+      "ts": "2026-02-07 15:05:31",
+      "window_sig": "win:2040016:python",
+      "window_title": "python",
+      "image_hash": "e8daf0857d5d827196c8c44b3041d53d61e70d43c52466e188b98d95269ced01",
+      "suggestion": "عدّل `remember_topic` لمنع تكرار المواضيع مباشرة بكتابة: `topics = list(dict"
+    },
+    {
+      "ts": "2026-02-07 15:09:50",
+      "window_sig": "win:10163576:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "4c3ecc5a366335bb054a9f8dac2793a43fbb10076ce7504c7f462f49b4d20a3c",
+      "suggestion": "بدّل الطرفية في Cursor إلى **Anaconda Prompt/PowerShell** أو أضف مسار **Anaconda (condabin)** إلى **PATH** ثم نفّذ `conda init` لإصلاح خطأ `conda is not recognized` وتشغيل main"
+    },
+    {
+      "ts": "2026-02-07 15:09:59",
+      "window_sig": "win:13373504:💬 محادثة مع الملاك المساعد",
+      "window_title": "💬 محادثة مع الملاك المساعد",
+      "image_hash": "368392f7d2959370ef5fa99bbe7a10242081db376399d8536bb6e1a74e796505",
+      "suggestion": "في Cursor اضغط **Ctrl+Shift+P** ثم اختر **Python: Select Interpreter** وحدّد ‎`C:\\ProgramData\\anaconda3\\python"
+    },
+    {
+      "ts": "2026-02-07 15:13:18",
+      "window_sig": "win:3608230:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "c077c3506f0658b0396c53f1c0903639b9ee071de1a9b054420473f25d4f520b",
+      "suggestion": "لتفادي خطأ “conda غير معروف” داخل ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-07 15:13:27",
+      "window_sig": "win:1319170:💬 محادثة مع الملاك المساعد",
+      "window_title": "💬 محادثة مع الملاك المساعد",
+      "image_hash": "db2a7c8221ac65b0de0d14d5b9ea3334d36044f7100c824c2da5d64b0ff8fc18",
+      "suggestion": "من داخل Cursor اضغط Ctrl+Shift+P ثم اختر **Terminal: Select Default Profile** وعيّن الطرفية إلى **Anaconda/PowerShell** قبل تشغيل `main"
+    },
+    {
+      "ts": "2026-02-07 15:15:05",
+      "type": "text_chat",
+      "user_text": "مرحبا",
+      "response": "مرحبًا! كيف أقدر أساعدك اليوم؟  \nإذا تحب، قل لي هل سؤالك يتعلق بـ **Python** أو تشغيل **main.py** داخل **Cursor** أو شيء آخر؟"
+    },
+    {
+      "ts": "2026-02-07 21:23:42",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "7255349123ba8215994d6af0bfc198ca70621bd4b80bca68c73b369b1b73fcd9",
+      "suggestion": "استخدم Ctrl+Tab للتنقل بين النوافذ المفتوحة بسرعة 🚀"
+    },
+    {
+      "ts": "2026-02-07 21:24:37",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "718eac4c049d02c47eb48961967922d4f04730b49537a807c41a22b4e98c88a4",
+      "suggestion": "اضبط طرفية Cursor لتعمل عبر **Anaconda Prompt** (أو أضف conda إلى PATH) ثم شغّل **main"
+    },
+    {
+      "ts": "2026-02-07 21:24:45",
+      "window_sig": "win:13507826:python",
+      "window_title": "python",
+      "image_hash": "39d26573b5eca1904485c40d82066a9b039fe03cf5f3f7ef351c9685dba95c97",
+      "suggestion": "لتتجاوز خطأ conda فورًا، أنشئ بيئة افتراضية داخل المشروع (python -m venv"
+    },
+    {
+      "ts": "2026-02-07 21:32:27",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "269645ef3436244766a53a5a3821ffa686c25fe0bbf4d7b9523bb0c161f7dba7",
+      "suggestion": "بدّل الاستيراد إلى from PyQt6"
+    },
+    {
+      "ts": "2026-02-07 21:36:50",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "324017456e2f37be3fd718f714c84e675949022408f33d9d86a03bf4b4a5dd82",
+      "suggestion": "حدّث/أعد تثبيت pywin32 ثم اجعل المساعد يتحقّق عند الإقلاع من توفر win32api"
+    },
+    {
+      "ts": "2026-02-07 21:39:16",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "65d13b66238c88032a22eaf90b09caeb44eefd3c8f42176b0df932bd96645c76",
+      "suggestion": "شغّل في PowerShell أمر conda init powershell ثم أعد فتح الطرفية داخل Cursor ليعمل conda activate base بدون خطأ ويستقر تشغيل main"
+    },
+    {
+      "ts": "2026-02-07 22:08:45",
+      "window_sig": "win:2104478:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "72476322ad521b8978132430d3172118681e53eb223d3b4f55f08f91ab6b3eab",
+      "suggestion": "بدّل الطرفية الافتراضية في Cursor إلى ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-07 22:08:57",
+      "window_sig": "win:72228234:python",
+      "window_title": "python",
+      "image_hash": "e209ea25161c3a3e351e7c144cb494ce26857f6e757771ed5b12482668e42106",
+      "suggestion": "لحل خطأ conda activate base داخل Cursor شغّل conda init powershell ثم افتح طرفية جديدة (أو نفّذ & C:\\ProgramData\\anaconda3\\Scripts\\activate"
+    },
+    {
+      "ts": "2026-02-07 22:10:01",
+      "window_sig": "win:72228234:python",
+      "window_title": "python",
+      "image_hash": "bd5d4fae8ea6d12bbd9ea8a526f9b973f532f01ac29b573f6cb7f5bd96505d23",
+      "suggestion": "اضبط في Cursor ملف Terminal Profile ليبدأ بـ c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-07 22:10:23",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "460684414eb601e6430741d0728913b9dbba9e04e295849b5d920588b6bf09d2",
+      "suggestion": "حدّث/أعد تثبيت pywin32 ثم استبدل ‎win32api"
+    },
+    {
+      "ts": "2026-02-07 22:10:34",
+      "window_sig": "win:4201060:main copy.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main copy.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "eb89e25bf24b2ba5b19858fc2682d11288f20eb057b71a1a78ab2f5e9a1069ff",
+      "suggestion": "اضبط في Cursor (Terminal Profiles) ليكون الافتراضي Anaconda Prompt/PowerShell (conda) بدل ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-07 22:11:11",
+      "window_sig": "win:72228234:python",
+      "window_title": "python",
+      "image_hash": "1f196ac588f50f0d5d766f021c66f05e363d2a21bb37fca37533f21896c3491c",
+      "suggestion": "بدّل تسجيل اختصار F12 من ‎win32api"
+    },
+    {
+      "ts": "2026-02-07 22:11:51",
+      "window_sig": "win:4201060:main copy.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main copy.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "02cc6368cdef55a3bf6dcc36b50dd06ed1871eb899239729c084ad784bf15f0a",
+      "suggestion": "بدل الاعتماد على اختصار نظامي، اربط تشغيل الملاك باختصار داخل Qt عبر QShortcut (مثل F12 أو Alt+Space) وأضف نافذة بحث فوري تفتح بالاختصار نفسه داخل main"
+    },
+    {
+      "ts": "2026-02-07 22:12:43",
+      "window_sig": "win:134100:",
+      "window_title": "",
+      "image_hash": "0629a1e1873760914ba6accc79401f886516e562433b873e662a2af6cbcac3bc",
+      "suggestion": "استخدم Ctrl+Shift+T لاستعادة آخر تبويب مغلق 🎯"
+    },
+    {
+      "ts": "2026-02-07 22:12:49",
+      "window_sig": "win:39327118:Anaconda Prompt",
+      "window_title": "Anaconda Prompt",
+      "image_hash": "c811d354cba19fc0db9aa50b77098119de69477eefa2fc3eefcbded56e4926f2",
+      "suggestion": "اضغط Win+D لإظهار سطح المكتب والعودة إليه بسرعة ⚡"
+    },
+    {
+      "ts": "2026-02-07 22:13:05",
+      "window_sig": "win:4201060:main copy.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main copy.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "e148b169743aa29de30d5a386b7294905c3500552fddc352ef0743014f26be9a",
+      "suggestion": "جرّب Ctrl+L للانتقال لشريط العنوان بسرعة وتختصر وقتك ⚡"
+    },
+    {
+      "ts": "2026-02-07 22:14:28",
+      "window_sig": "win:7802254:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "53a8dcbf93f099f189bf7aca7254780b10135e0c1529246a8cb31867dc4da8e9",
+      "suggestion": "استخدم Ctrl+Shift+T لاستعادة آخر تبويب مغلق 🎯"
+    },
+    {
+      "ts": "2026-02-07 22:14:34",
+      "window_sig": "win:34543024:python",
+      "window_title": "python",
+      "image_hash": "7e034536bee49c942bde45caaf0ff162f647b5b68e244a8e5bf7d84602ef42a1",
+      "suggestion": "جرّب Ctrl+L للانتقال لشريط العنوان بسرعة وتختصر وقتك ⚡"
+    },
+    {
+      "ts": "2026-02-07 22:23:03",
+      "window_sig": "win:3939694:Command Prompt",
+      "window_title": "Command Prompt",
+      "image_hash": "e5fe1c357491a25ec5f1f025b3928ed265fe43bb80d819b938eb1f3125fc97d5",
+      "suggestion": "اضبط الطرفية في Cursor لتفتح Anaconda Prompt أو أضف ‎C:\\ProgramData\\anaconda3\\Scripts‎ و‎"
+    },
+    {
+      "ts": "2026-02-07 22:23:22",
+      "window_sig": "win:1903802:python",
+      "window_title": "python",
+      "image_hash": "6206d8473337fc63e219df49bf8fb209b8f84853410cde0160aa6de5722e4023",
+      "suggestion": "غيّر اختصار الملاك العالمي من F12 إلى Ctrl+Alt+F12 لتتجنب تعارضه مع اختصار Cursor ‏F12 (الانتقال للتعريف) وتحافظ على تدفق التبويب والتنقّل السريع"
+    },
+    {
+      "ts": "2026-02-07 22:24:48",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "990922c166ecf56d3100cd53f3a241445d68bcaa594eb2393c21431dfe7fbcbb",
+      "suggestion": "فعّل بديلًا تلقائيًا لاختصار F12 باستخدام ctypes وحدث WM_HOTKEY عند فشل win32api"
+    },
+    {
+      "ts": "2026-02-08 19:41:26",
+      "window_sig": "win:42406952:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "4717b8ec85d847b7f8a3e3dfe748e972eb01986a01dca10021e37c9aea06114b",
+      "suggestion": "اضبط الطرفية الافتراضية في Cursor إلى ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-08 19:41:37",
+      "window_sig": "win:50339700:python",
+      "window_title": "python",
+      "image_hash": "15dd702fb0c7492493817a3470158705a045da7c285b955aa57054d0ee7e7304",
+      "suggestion": "لتفادي خطأ ‎conda:String‎ في الطرفية، نفّذ ‎Ctrl+Shift+P‎ ثم اختر ‎Python: Select Interpreter‎ وحدد مفسّر ‎Anaconda‎ الصحيح قبل تشغيل ‎main"
+    },
+    {
+      "ts": "2026-02-08 19:48:34",
+      "window_sig": "win:8788074:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "9f38b3d3ba5c2fadcf0a6b6c20737e4534a9e2af2dc05ba8417d66f6cadae4b3",
+      "suggestion": "اضغط ‎Ctrl+Shift+P‎ ثم اختر ‎Terminal: Select Default Profile‎ وحدّد ‎Anaconda Prompt‎ (بدل ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-08 19:54:44",
+      "window_sig": "win:2297018:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "ccde9f88aa0c2f8305b39fbb84e255d3eaa391cf79ac72854ab22858affc9d7e",
+      "suggestion": "استخدم اختصار ‎Ctrl+‎ للانتقال فورًا لطرفية Cursor وتشغيل ‎python main"
+    },
+    {
+      "ts": "2026-02-08 19:54:51",
+      "window_sig": "win:26412594:python",
+      "window_title": "python",
+      "image_hash": "7aed575daf5ba5133a38ad4a863e890c0b7ceaf6fc3bf457c8081fa65fda4f97",
+      "suggestion": "ثبّت اختصار فتح/إغلاق تبويب الطرفية داخل Cursor من إعدادات لوحة المفاتيح (Terminal: Toggle Terminal) ليعمل حتى لو كان ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-08 20:33:07",
+      "window_sig": "win:53349768:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "fc4a043aa666b56f9d3998957a296108580cd0bfd9dab5ef9703c5672bec3d5a",
+      "suggestion": "بدّل الطرفية المدمجة إلى PowerShell ثم نفّذ conda init powershell وأعد فتح التبويب ليعمل conda activate base داخل Cursor بدل ظهور CommandNotFound"
+    },
+    {
+      "ts": "2026-02-08 20:33:31",
+      "window_sig": "win:4201060:main_new.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main_new.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "9980ecb9d0514c8c3aecca43b41dd83b3a0e6287553aa6483c8b5e26b82841eb",
+      "suggestion": "فعّل خيار **Python: Terminal Activate Environment** في إعدادات Cursor ثم اختر مفسّر Anaconda من شريط الحالة ليتم تفعيل بيئة conda تلقائيًا عند فتح أي تبويب طرفية دون كتابة أوامر"
+    },
+    {
+      "ts": "2026-02-08 20:35:55",
+      "window_sig": "win:2559162:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "4efaf8e05d69851311251d104c23aedce182564f2ba2873d6152368a8b6bdc5e",
+      "suggestion": "من Ctrl+Shift+P اختر **Terminal: Select Default Profile** واجعل الطرفية الافتراضية **Anaconda Prompt** لتفادي خطأ *conda command not found* وتشغيل python main_new"
+    },
+    {
+      "ts": "2026-02-08 20:36:51",
+      "window_sig": "win:4201060:main_new.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main_new.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "022a98fffbbf826ea739543b86e143aaf23a0d140822c29967ee27575bd85713",
+      "suggestion": "اضبط مفسّر بايثون للمشروع من شريط الحالة (أو Ctrl+Shift+P ثم **Python: Select Interpreter**) واختر ‎C:\\ProgramData\\anaconda3\\python"
+    },
+    {
+      "ts": "2026-02-08 20:54:12",
+      "window_sig": "win:54070664:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "a15efd1e94f2e1b45e2eef44ef8a916158bb9c4c6a0b0e9921e574d7fe996f10",
+      "suggestion": "استخدم الطرفية المدمجة في Cursor بدل نافذة ‎cmd‎ عبر الاختصار ‎Ctrl+‎ ثم شغّل ‎main_new"
+    },
+    {
+      "ts": "2026-02-08 20:54:28",
+      "window_sig": "win:14815420:python",
+      "window_title": "python",
+      "image_hash": "ed98a77fbeae74e69ae0b943b9f157795369dc5dc7bbd6774c0986af3c355f63",
+      "suggestion": "فعّل التشغيل السريع لـ ‎main_new"
+    },
+    {
+      "ts": "2026-02-08 20:54:35",
+      "window_sig": "win:4201060:main_new.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main_new.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "a458b3d8b9c6b82888bb2df0b568063067db5fc0ceb23ae6b18a26a4e5bf9868",
+      "suggestion": "فعّل اختصار F12 كـ“فتح/إغلاق ChatOverlay” من إعدادات الاختصارات في Cursor لتستدعي المساعد فورًا فوق أي تبويب بدون تبديل نوافذ"
+    },
+    {
+      "ts": "2026-02-08 20:55:42",
+      "window_sig": "win:4201060:main_new.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main_new.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "6e2200d8be04b58fc17a4dc0a2f94c513a52f298b4e558d247cda0525e87c4a9",
+      "suggestion": "أنشئ Task في Cursor لتشغيل python main_new"
+    },
+    {
+      "ts": "2026-02-08 20:56:31",
+      "window_sig": "win:4201060:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "4f8dad4d1d797a0acd41b857603e972964ef9c6e2bb17be0572ceecb665b3fab",
+      "suggestion": "فعّل إعداد Cursor لتشغيل الملف الحالي عبر زر واحد بربط اختصار مثل F5 بأمر **Python: Run Python File in Terminal** مع تحديد Interpreter الصحيح (conda) ليُفتح الإخراج تلقائيًا في تبويب Terminal مستقل"
+    },
+    {
+      "ts": "2026-02-08 21:06:01",
+      "window_sig": "win:47127412:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "8c8a77c77cbf94620f912043b836de5ec728f96640c6fce5318cdb36e9c209be",
+      "suggestion": "اجعل الطرفية الافتراضية في Cursor Anaconda Prompt/PowerShell (conda) من إعدادات **Terminal Profiles** لتعمل أوامر conda activate مباشرة بدل خطأ CommandNotFound وتستغني عن فتح c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-08 21:06:12",
+      "window_sig": "win:47192948:python",
+      "window_title": "python",
+      "image_hash": "da763cbca75ceb960f3472b3b17fe8add9fe1068e806ff04d9ecb64a9e990574",
+      "suggestion": "من داخل Cursor اضغط Ctrl+Shift+P ثم اختر **Python: Select Interpreter** وحدّد مفسّر conda الصحيح ليعمل تشغيل main"
+    },
+    {
+      "ts": "2026-02-08 21:06:20",
+      "window_sig": "win:4201060:main_new.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main_new.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "14a72248546bf41b6399e84947a8a8690c9702ddbae52ac390f4d2fc1bc26198",
+      "suggestion": "اضبط من إعدادات Cursor الطرفية الافتراضية إلى **Anaconda Prompt/PowerShell (conda)** بدلًا من c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-08 21:07:13",
+      "window_sig": "win:2562128:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "e8c4b13b2d938b03b8433248aaf2f88b55956f4abb489038f3b795a78e3e932b",
+      "suggestion": "نفّذ conda init powershell ثم أعد فتح تبويب الطرفية في Cursor ليعمل conda activate base بدون خطأ"
+    },
+    {
+      "ts": "2026-02-08 21:08:50",
+      "window_sig": "win:45879360:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "d0dd9b4949320528ed95b28d8c15217b42ae9fadfc4e441f6fe99f35d377d5be",
+      "suggestion": "من إعدادات Cursor اجعل تبويب الطرفية الافتراضي هو ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-08 21:09:09",
+      "window_sig": "win:4201060:main_new.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main_new.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "15f153dac332465a99b2a03071b3167700b81b777fdb97aea1583236f8c2c6ac",
+      "suggestion": "فعّل في Cursor اختصارًا (مثل Ctrl+Alt+T) لفتح تبويب الطرفية فورًا وتشغيل python main"
+    },
+    {
+      "ts": "2026-02-08 21:09:18",
+      "window_sig": "win:44768250:شريط أدوات التسجيل",
+      "window_title": "شريط أدوات التسجيل",
+      "image_hash": "cdfc757162cf94d8668cb3dad72bc792d4aa4de30cb8d0bb4e5362fcac93431d",
+      "suggestion": "اضبط من إعدادات Cursor الطرفية الافتراضية لتستخدم بيئة Anaconda (Python 3"
+    },
+    {
+      "ts": "2026-02-08 21:09:32",
+      "window_sig": "win:4201060:main_new.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main_new.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "d76b54d941ca036a38f3b1bec3bff1fa4e2d20796ec0e753538fde00b0e41b31",
+      "suggestion": "فعّل Sticky Scroll من إعدادات Cursor لتبقى دوال مثل toggle_chat_box() ظاهرة أعلى المحرّر أثناء التمرير وتتنقّل داخل main"
+    },
+    {
+      "ts": "2026-02-08 21:10:27",
+      "window_sig": "win:569053512:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "5eb08486114b583745e2e7a7a4e7b3c216ca2e79371d2ee2b70053299934805c",
+      "suggestion": "اضبط مفسّر بايثون داخل Cursor عبر ‎Ctrl+Shift+P → ‎Python: Select Interpreter لتتجنّب مسارات ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-08 21:10:51",
+      "window_sig": "win:2298736:python",
+      "window_title": "python",
+      "image_hash": "65bd789db9c7347d460c5d39d7e43a356b30ceee5febda8f01b1cc4e6a1ebf8f",
+      "suggestion": "فعّل تفعيل بيئة conda تلقائيًا في طرفية Cursor من الإعدادات (Terminal: Activate Environment) لتختفي أخطاء ‎CommandNotFoundException‎ عند تشغيل ‎python/pip‎ 🚀"
+    },
+    {
+      "ts": "2026-02-09 07:11:50",
+      "window_sig": "win:71635310:C:\\WINDOWS\\system32\\cmd.exe",
+      "window_title": "C:\\WINDOWS\\system32\\cmd.exe",
+      "image_hash": "d38a6668d3e2957742fe5095c0ee2595c4d6820110a18d5c2281b1468c65c7ff",
+      "suggestion": "استخدم Ctrl+Tab للتنقل بين النوافذ المفتوحة بسرعة 🚀"
+    },
+    {
+      "ts": "2026-02-09 07:11:57",
+      "window_sig": "win:4201060:main_new.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main_new.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "146ee48a1790f82688166b21509f5a74d2e12b2933804de721f7260a8aa02fa9",
+      "suggestion": "اضغط Win+D لإظهار سطح المكتب والعودة إليه بسرعة ⚡"
+    },
+    {
+      "ts": "2026-02-09 07:12:05",
+      "window_sig": "win:52560414:python",
+      "window_title": "python",
+      "image_hash": "1f972e6564c43129f3cf5839fc4e997edf78f8b3f2f59da9d786f31d84786412",
+      "suggestion": "جرّب Ctrl+L للانتقال لشريط العنوان بسرعة وتختصر وقتك ⚡"
+    },
+    {
+      "ts": "2026-02-09 07:12:20",
+      "window_sig": "win:4201060:main_new.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main_new.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "a56996833060fa77c6b9a7cb3abd57ae3079643552c11b9db3f96d6f2b1cb0d4",
+      "suggestion": "استخدم Ctrl+Shift+T لاستعادة آخر تبويب مغلق 🎯"
+    },
+    {
+      "ts": "2026-02-22 12:53:44",
+      "window_sig": "win:2035196:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "d591e95f1eafbc24235c54c9c56dbdbe9fd26360e2d79f434b3ef90e0e7068c1",
+      "suggestion": "فعّل التبويب السريع للملفات في Cursor عبر Ctrl+P ثم اكتب main"
+    },
+    {
+      "ts": "2026-02-22 12:54:19",
+      "window_sig": "win:1185326:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "60020755a9a82faa83fb628fb8171fe8dd12e5cb29ed0565ca05468e2ac0b7a4",
+      "suggestion": "أنشئ مهمة Run في Cursor لتشغيل python main"
+    },
+    {
+      "ts": "2026-02-22 12:54:27",
+      "window_sig": "win:13111142:⚙️ إعدادات الملاك المساعد - الملاك المساعد v2",
+      "window_title": "⚙️ إعدادات الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "c241397d8a8d7fd9e5ba30d7c0a9491ba8b0fae4e4030ad7e7a438a18955e3b3",
+      "suggestion": "انقل مفتاح OpenRouter إلى ملف ‎"
+    },
+    {
+      "ts": "2026-02-22 12:54:36",
+      "window_sig": "win:1185326:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "2d025c88ff116873b75dde2339ba6bd8e7991dc00719b3528a9b95e853725cc6",
+      "suggestion": "أنشئ Run Configuration/Task في Cursor لتشغيل python main"
+    },
+    {
+      "ts": "2026-02-22 12:57:26",
+      "window_sig": "win:1381800:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "7fd371d530cea2192d8e208aab74398acf7f75cdb45e9a8bc5a0570a7fc3b7ba",
+      "suggestion": "غيّر بروفايل الطرفية في Cursor إلى ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-22 12:57:36",
+      "window_sig": "win:2889256:الملاك المساعد v2",
+      "window_title": "الملاك المساعد v2",
+      "image_hash": "44f4f48521d881efcdd0e4bfeced6f182404284fe98ec28e2590802c37b73b82",
+      "suggestion": "من لوحة الأوامر في Cursor (Ctrl+Shift+P) اختر **Python: Select Interpreter** واضبطه على بيئة المشروع ("
+    },
+    {
+      "ts": "2026-02-22 12:57:58",
+      "window_sig": "win:265148:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "38338631a71b967ca7d0fafc68673b7dc5a94413dba27a2d0eb33eba0c955733",
+      "suggestion": "ثبّت اختصار **F9** لفتح **تبويب الإعدادات** مباشرة داخل “الملاك/المساعد”، واحتفظ بـ **Alt+F9** كخيار احتياطي عند تعارض مفاتيح النظام 🔧"
+    },
+    {
+      "ts": "2026-02-22 12:58:22",
+      "window_sig": "win:985786:‫الإشعارات | LinkedIn - Google Chrome‬",
+      "window_title": "‫الإشعارات | LinkedIn - Google Chrome‬",
+      "image_hash": "e0234ceb207ef4ff3dba1ae1c1eee8e9968b78df67636e0a506288796786e848",
+      "suggestion": "اضغط **Shift+/** داخل لينكدإن لعرض قائمة اختصارات لوحة المفاتيح والتنقّل بين الإشعارات بسرعة بدون ماوس"
+    },
+    {
+      "ts": "2026-02-22 12:58:27",
+      "window_sig": "win:985786:‫الموجز | LinkedIn - Google Chrome‬",
+      "window_title": "‫الموجز | LinkedIn - Google Chrome‬",
+      "image_hash": "91007b047b482a38a474902a3bcbfc55a714049a3a7f01f002eaf3a798d8d62c",
+      "suggestion": "اضغط **Ctrl+L** ثم اكتب **linkedin"
+    },
+    {
+      "ts": "2026-02-22 13:03:27",
+      "window_sig": "win:11800006:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "5e27e2364b873c1ff8df3c10b685c17fce7e44d1701eedda42acb911d266fd62",
+      "suggestion": "في Terminal داخل Cursor شغّل ‎C:\\ProgramData\\anaconda3\\Scripts\\activate"
+    },
+    {
+      "ts": "2026-02-22 13:03:37",
+      "window_sig": "win:265148:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "63c24730f31f26e1a75333ad76635464fe5626baec92007896572b7854df4266",
+      "suggestion": "أنشئ ‎Task‎ داخل Cursor لتشغيل ‎python main"
+    },
+    {
+      "ts": "2026-02-22 13:03:48",
+      "window_sig": "win:11800006:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "f88137232aabb5e73b18a6404326d78a123c211c62501a8ac63149693f95d910",
+      "suggestion": "اربِط مفتاح **F9** بأمر واحد يفتح تبويب **Terminal** على **c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-22 13:04:14",
+      "window_sig": "win:265148:main.py - الملاك المساعد v2 - Cursor",
+      "window_title": "main.py - الملاك المساعد v2 - Cursor",
+      "image_hash": "5acb8bd62e0872851b1807a57cf802e9a162e106350ca1e96bd924a9d8a64b90",
+      "suggestion": "أنشئ Task باسم تشغيل الملاك يشغّل python main"
+    },
+    {
+      "ts": "2026-02-22 13:04:54",
+      "window_sig": "win:11800006:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "e02e6bbfeea4a0582db096313bea2cd356856697f61a14214609cee9112af500",
+      "suggestion": "اربط Alt+F9 باختصار يفتح تبويب Terminal جديد مضبوط على ‎c:\\windows\\system32\\cmd"
+    },
+    {
+      "ts": "2026-02-22 13:11:00",
+      "window_sig": "win:7868414:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "65a4b49be4bbb5e1d759df182b1ce269dce5ffef5574e2a5da15904a55dbc9e8",
+      "suggestion": "غيّر Profile تبويب الـTerminal في Cursor إلى **Anaconda Prompt** (أو نفّذ conda init مرة واحدة) لتختفي أخطاء CommandNotFoundException وتعمل أوامر conda أثناء تشغيل python main"
+    },
+    {
+      "ts": "2026-02-22 18:35:05",
+      "window_sig": "win:854884:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "0dbc6b5a8415039cd0c3d67e67eecc5ad6c5d6b79c59c8a3630a26f0bfe91578",
+      "suggestion": "أضِف مسارات Anaconda (مثل C:\\ProgramData\\anaconda3\\Scripts و"
+    },
+    {
+      "ts": "2026-02-22 18:35:14",
+      "window_sig": "win:854884:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "f509e852d1320ce2349b27f147426498f19cb2720aed70f80a310572c3e00d28",
+      "suggestion": "لأن الطرفية تعرض أن conda غير معروف، نفّذ conda init powershell ثم أعد فتح Terminal في VS Code ليعمل conda activate تلقائيًا وتشتغل python main"
+    },
+    {
+      "ts": "2026-02-22 18:35:23",
+      "window_sig": "win:4199262:الملاك المساعد v2",
+      "window_title": "الملاك المساعد v2",
+      "image_hash": "017c6bd5403c640af0f603626071cbf972dd2f9f55880f27bfacddfac7f682a1",
+      "suggestion": "اضبط مهمة في VS Code لتشغيل python main"
+    },
+    {
+      "ts": "2026-02-22 18:35:30",
+      "window_sig": "win:854884:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "5c47ecb538df621c80998ff0b27c24ca33952cba92740cc943e854b6ab8c5fbe",
+      "suggestion": "اربط زر F9 مباشرةً بأمر **Python: Run Python File in Terminal** عبر اختصارات لوحة المفاتيح ليشغّل main"
+    },
+    {
+      "ts": "2026-02-22 18:35:42",
+      "window_sig": "win:854884:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "62cd2887dab35b67dbdf13dfe22299b07d0d7acad517f3ac6a04974590e744af",
+      "suggestion": "فعّل وضع صورة داخل صورة للفيديو في Edge (PiP) ليبقى عائمًا فوق Cursor/VS Code وأنت تعدّل main"
+    },
+    {
+      "ts": "2026-02-22 18:35:48",
+      "window_sig": "win:854884:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "35657ffa55894d887699c103299a0872ef96bdac258581dd8879e0be173b8408",
+      "suggestion": "قسّم شاشتك فورًا بـ **Win+←/→** لتثبيت المتصفح بجانب **main"
+    },
+    {
+      "ts": "2026-02-22 18:36:08",
+      "window_sig": "win:4199262:الملاك المساعد v2",
+      "window_title": "الملاك المساعد v2",
+      "image_hash": "0a6921c8a2c45e2d6d0e0dff53aadc15e5ff1cc095649fab9136a1cae968c217",
+      "suggestion": "في Edge اضغط يمينًا مرتين على الفيديو واختر صورة داخل صورة ليبقى شرح المساعد الملاك عائمًا فوق الشاشة أثناء تعديل main"
+    },
+    {
+      "ts": "2026-02-22 18:36:20",
+      "window_sig": "win:4066960:أداة القصاصة",
+      "window_title": "أداة القصاصة",
+      "image_hash": "a989efc0137c5406d455ef374ceda1934cf2245c73a41ca668d10d8b1c0cbefb",
+      "suggestion": "في Cursor/VS Code أنشئ مهمة تشغيل لـ python main"
+    },
+    {
+      "ts": "2026-02-22 18:41:48",
+      "window_sig": "win:397098:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "da0181b57bdd98bc825087d5486841f45792d5fb2c6e6c0d6f2a13f3615d32ac",
+      "suggestion": "بدل محاولة conda activate داخل PowerShell (واضح أنه غير معروف عندك)، افتح **Anaconda Prompt** أو شغّل C:\\ProgramData\\anaconda3\\Scripts\\activate"
+    },
+    {
+      "ts": "2026-02-22 18:42:04",
+      "window_sig": "win:397098:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "7cb5a96e962ab21ec87b8e181a28b588c9b2a669c1b00d28b3c7bc6ce267c69d",
+      "suggestion": "وأنت تتابع درس الـLLM، استخدم اختصارات يوتيوب K للإيقاف/التشغيل وJ/L للقفز 10 ثوانٍ لتعيد شرح “Multi‑Head Attention” بسرعة دون لمس الماوس ⏱️"
+    },
+    {
+      "ts": "2026-02-22 18:42:24",
+      "window_sig": "win:397098:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "9ec20f7b6e2e9243b6fb36bc8ca55292fa7b429862f01401c55f5e405d04499a",
+      "suggestion": "على يوتيوب بعد إيقاف الفيديو اضغط على الفاصلة (, ) أو النقطة ("
+    },
+    {
+      "ts": "2026-02-22 19:14:52",
+      "window_sig": "win:725470:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "e1994e2be0284a9f8485e042ae562512c4624bc5821ed404b4dc52c09c7384f6",
+      "suggestion": "بما إنك تبرمج مساعدًا يعتمد على LLM داخل Python/Cursor: اجعل أي محتوى من الشاشة/اليوتيوب/الويب غير موثوق ومرِّره كنص مُقتبس داخل قناة منفصلة (data) مع حارس للأدوات يسمح فقط باستدعاءات مُقيدة بـJSON Schema—لأن أقوى حماية من حقن الأوامر ليست في صياغة البرومبت بل"
+    },
+    {
+      "ts": "2026-02-22 19:18:59",
+      "window_sig": "win:2297674:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "88b32981ddf3f683b8ea698df0f55f916f388b4f9c4ace5a91c308fd4d23ef02",
+      "suggestion": "بما إنك تبني مساعدًا بـPython داخل Cursor: وفّر وقتك بتشغيل python -m pip install python-dotenv ثم حمّل مفتاح الـAPI تلقائيًا من ملف"
+    },
+    {
+      "ts": "2026-02-22 19:19:10",
+      "window_sig": "win:7278484:الملاك المساعد v2",
+      "window_title": "الملاك المساعد v2",
+      "image_hash": "e8b189dc37b4118659c6120950fbdafa008f5ceb68d3a9f998e5411c996138d6",
+      "suggestion": "بما إنك تبني مساعدًا بـPython داخل Cursor: اجعل الـLLM يرد دائمًا وفق **JSON Schema/Structured Outputs** مع **tool-calling** لتقليل الهلوسة وضمان تنفيذ الاختصارات (F9/F11/F12) بشكل موثوق 🔧"
+    },
+    {
+      "ts": "2026-02-22 19:19:23",
+      "window_sig": "win:2297674:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "6e33d082f83d375c50440cbeb872f83c0b9671a5716c6a69fc86f3742f0e214c",
+      "suggestion": "بما إنك تبني مساعدًا بـPython داخل Cursor: أضف “Prompt Firewall” يمنع حقن الأوامر عبر نص المستخدم/الحافظة بفصل system عن user وتصفية العبارات التي تحاول تغيير القواعد أو طلب أسرار (مثل مفاتيح API والاختصارات) قبل إرسالها للـLLM 🔒"
+    },
+    {
+      "ts": "2026-02-22 19:19:31",
+      "window_sig": "win:2297674:الملاك المساعد - الملاك المساعد v2",
+      "window_title": "الملاك المساعد - الملاك المساعد v2",
+      "image_hash": "75a7a5f3aad885700d4e07d004527885be4efa17f31c8201ba0e2e069acc3bd5",
+      "suggestion": "بما إنك تتابع تدريب LLM وشرح الـMulti‑Head Attention: أسرع مكسب أداء في الاستدلال هو تفعيل **KV‑Cache** (تخزين مفاتيح/قيم الانتباه لكل طبقة) لتجنب إعادة حساب الانتباه لكل توكن، فينخفض الزمن لكل توكن بشكل كبير 🚀"
+    }
+  ],
+  "last_suggestion": "بما إنك تتابع تدريب LLM وشرح الـMulti‑Head Attention: أسرع مكسب أداء في الاستدلال هو تفعيل **KV‑Cache** (تخزين مفاتيح/قيم الانتباه لكل طبقة) لتجنب إعادة حساب الانتباه لكل توكن، فينخفض الزمن لكل توكن بشكل كبير 🚀",
+  "last_topics": [
+    "إعدادات",
+    "اختصار",
+    "تبويب",
+    "اختصار",
+    "تبويب",
+    "تبويب",
+    "اختصار",
+    "اختصار",
+    "اختصار",
+    "اختصار"
+  ],
+  "chat_history": [
+    {
+      "role": "assistant",
+      "content": "هلا 👋🙂\nيبدو إن الرسالة تتكرر. اكتب طلبك مباشرة بجملة واحدة: تبغى مساعدة في إيش؟ ✅"
+    },
+    {
+      "role": "user",
+      "content": "مرحبا"
+    },
+    {
+      "role": "assistant",
+      "content": "هلا 👋🙂\nأنت ترسل “مرحبا” بس، وما وصلني طلبك.\nاكتب لي: تبغى مساعدة في إيش بالضبط؟ (تقنية/كتابة/ترجمة/برمجة/نصيحة) ✅"
+    },
+    {
+      "role": "user",
+      "content": "مرحبا"
+    },
+    {
+      "role": "assistant",
+      "content": "هلا 👋\nواضح إنك ترسل “مرحبا” فقط.\nاكتب طلبك بجملة واحدة: تبغى مساعدة في إيش؟\nمثال: “ترجم نص”، “اكتب رسالة”، “حل مشكلة جوالي”."
+    },
+    {
+      "role": "user",
+      "content": "مرحبا من انت؟"
+    },
+    {
+      "role": "assistant",
+      "content": "أنا مساعد ذكاء اصطناعي من OpenAI. 🤖\nأساعدك في الكتابة، الترجمة، المعلومات، وحل المشاكل.\nقل لي وش تبغى تحديدًا؟"
+    },
+    {
+      "role": "user",
+      "content": "مرحبا من انت؟"
+    },
+    {
+      "role": "assistant",
+      "content": "أنا مساعد ذكاء اصطناعي من OpenAI. 🤖\nأساعدك في الأسئلة، الكتابة، الترجمة، وتبسيط المعلومات.\nما عندي مشاعر أو حياة شخصية، وأرد بناءً على ما تكتبه هنا.\nوش تبي تساعدك فيه؟ 🙂"
+    },
+    {
+      "role": "user",
+      "content": "مرحبا"
+    },
+    {
+      "role": "assistant",
+      "content": "مرحبًا 👋\nكيف أقدر أساعدك؟\nاكتب سؤالك أو طلبك بجملة قصيرة."
+    },
+    {
+      "role": "user",
+      "content": "مرحبا"
+    },
+    {
+      "role": "user",
+      "content": "مرحبا"
+    },
+    {
+      "role": "assistant",
+      "content": "مرحبًا 👋\nهل تبي مساعدة في شيء محدد؟\nاكتب سؤالك أو الموضوع اللي تريده."
+    },
+    {
+      "role": "user",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "assistant",
+      "content": "وعليكم السلام ورحمة الله وبركاته 🤝\nكيف أقدر أساعدك؟\nاذكر طلبك أو سؤالك باختصار."
+    }
+  ]
+}
